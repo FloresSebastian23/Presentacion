@@ -1,0 +1,6 @@
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Dominio\bin\Debug\Dominio.dll
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Dominio\obj\Debug\Dominio.dll
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Dominio\obj\Debug\Dominio.pdb

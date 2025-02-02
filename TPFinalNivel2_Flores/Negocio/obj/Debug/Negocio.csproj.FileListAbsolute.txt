@@ -1,0 +1,11 @@
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Negocio\bin\Debug\Negocio.dll
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Negocio\bin\Debug\Dominio.dll
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Negocio\obj\Debug\Negocio.dll
+C:\Users\Camilote\Desktop\TP Final Nivel-2\TPFinalNivel2_Flores\Negocio\obj\Debug\Negocio.pdb

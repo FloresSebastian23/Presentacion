@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A39E90-C57C-4F15-BD38-BDC8564F4E80}|Presentacion\\Presentacion.csproj|c:\\users\\camilote\\desktop\\tpfinalnivel2_flores\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A39E90-C57C-4F15-BD38-BDC8564F4E80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9534B76-5E43-49DF-B0EF-3DCB5171B806}|Negocio\\Negocio.csproj|C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9534B76-5E43-49DF-B0EF-3DCB5171B806}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A39E90-C57C-4F15-BD38-BDC8564F4E80}|Presentacion\\Presentacion.csproj|C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\presentacion\\altaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A39E90-C57C-4F15-BD38-BDC8564F4E80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\altaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9534B76-5E43-49DF-B0EF-3DCB5171B806}|Negocio\\Negocio.csproj|C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9534B76-5E43-49DF-B0EF-3DCB5171B806}|Negocio\\Negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B042D7F-10DD-4FAA-B20A-7D7559AE3C2E}|Dominio\\Dominio.csproj|C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B042D7F-10DD-4FAA-B20A-7D7559AE3C2E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9534B76-5E43-49DF-B0EF-3DCB5171B806}|Negocio\\Negocio.csproj|C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9534B76-5E43-49DF-B0EF-3DCB5171B806}|Negocio\\Negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A39E90-C57C-4F15-BD38-BDC8564F4E80}|Presentacion\\Presentacion.csproj|C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\presentacion\\altaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4A39E90-C57C-4F15-BD38-BDC8564F4E80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\altaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A39E90-C57C-4F15-BD38-BDC8564F4E80}|Presentacion\\Presentacion.csproj|C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4A39E90-C57C-4F15-BD38-BDC8564F4E80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B042D7F-10DD-4FAA-B20A-7D7559AE3C2E}|Dominio\\Dominio.csproj|C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B042D7F-10DD-4FAA-B20A-7D7559AE3C2E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B042D7F-10DD-4FAA-B20A-7D7559AE3C2E}|Dominio\\Dominio.csproj|C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B042D7F-10DD-4FAA-B20A-7D7559AE3C2E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AltaArticulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Presentacion\\AltaArticulo.cs",
+              "RelativeDocumentMoniker": "Presentacion\\AltaArticulo.cs",
+              "ToolTip": "C:\\Users\\Camilote\\Desktop\\TP Final Nivel-2\\TPFinalNivel2_Flores\\Presentacion\\AltaArticulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TP Final Nivel-2\\TPFinalNivel2_Flores\\Presentacion\\AltaArticulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T03:23:36.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarcaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Negocio\\MarcaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\MarcaNegocio.cs",
+              "ToolTip": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Negocio\\MarcaNegocio.cs",
+              "RelativeToolTip": "Negocio\\MarcaNegocio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:16:57.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "Dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Dominio\\Marca.cs",
+              "RelativeToolTip": "Dominio\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:24:10.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Dominio\\Categoria.cs",
+              "RelativeDocumentMoniker": "Dominio\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Dominio\\Categoria.cs",
+              "RelativeToolTip": "Dominio\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:23:58.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Dominio\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:12:14.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Negocio\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Negocio\\CategoriaNegocio.cs",
+              "RelativeToolTip": "Negocio\\CategoriaNegocio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:43:58.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AltaArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Presentacion\\AltaArticulo.cs",
+              "RelativeDocumentMoniker": "Presentacion\\AltaArticulo.cs",
+              "ToolTip": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Presentacion\\AltaArticulo.cs",
+              "RelativeToolTip": "Presentacion\\AltaArticulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:41:41.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Negocio\\ArticuloNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Negocio\\ArticuloNegocio.cs",
+              "RelativeToolTip": "Negocio\\ArticuloNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:03:46.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Presentacion\\Form1.cs",
+              "RelativeToolTip": "Presentacion\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:43:25.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Camilote\\Desktop\\TPFinalNivel2_Flores\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Camilote\\Desktop\\TP Final Nivel-2\\TPFinalNivel2_Flores\\Presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\TP Final Nivel-2\\TPFinalNivel2_Flores\\Presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:31:56.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
